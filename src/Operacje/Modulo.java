@@ -1,21 +1,21 @@
 package Operacje;
 
 public class Modulo {
-    private double modulek;
+    private double modul;
 
-    public double modulujemy(double liczba1, double liczba2) {
+    public double pobierzLiczby(double liczba1, double liczba2) {
 
         if (liczba2 == 0) {
             System.out.println("nie dzielimy przez 0!");
             return 0;
         } else {
-            modulek = liczba1 % liczba2;
-            return modulek;
+            modul = liczba1 % liczba2;
+            return modul;
         }
     }
 
     public void wyswietlWynik() {
-        System.out.println(modulek);
+        System.out.println(modul);
     }
 
 }

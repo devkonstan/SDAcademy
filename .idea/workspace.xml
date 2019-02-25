@@ -2,19 +2,480 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03034dd3-51a1-4033-a19d-47b84d8f934c" name="Default Changelist" comment="sda&#10;2 plik">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gru01/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad402.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad403.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad405.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad407.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanka/zad408.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/pl_pragmatists_JUnitParams_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaPiosenek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/KlasaGeneryczna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/MetodaWMetodzie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/MetodaZMetoda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/MojGeneryk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Operacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Para/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Para/SimpleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Para/TestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Para/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Przedszkole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Samochody/Dostawczy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Samochody/Osobowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Samochody/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Samochody/Sportowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Samochody/Warsztat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Samochody/testWarsztatu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Soki/Arbuzowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Soki/Pomaranczowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Soki/Pudelko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Soki/Sok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Soki/TestSoki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru01/Uczniowie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru02/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru02/HashMapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru02/ListaTablic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru02/MojaMapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru02/Potega.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru02/TestPamieci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/CountriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/DictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru08/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru09/FullQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru09/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru09/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru09/TestShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gru09/Wyjatek1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis10/Dom/Dom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis10/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis10/KolkoIKrzyzyk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis10/NaszaKlasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis10/Pokoj/Elektryka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis17/Iteracja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis17/switchTyg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis17/testDni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis18/Operacja/Operacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis18/Warsztaty/Karoseria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis18/Warsztaty/Podwozie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis18/Warsztaty/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis18/Warsztaty/WarsztatA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis18/Warsztaty/WarsztatB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis24/Kalendarze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis25/Eksperyment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis25/TrajKecz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lis25/Watki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/EggLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/FileNameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/FireBreather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Flyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/MonikaIRobert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/MountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Mythical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Pegasus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Piosenka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/PomocnikGry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Portal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/RegionMatchesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/RoadBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/SBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/ShadowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/SzafaGrajaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/TestBikes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/TestSynchronizacji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/ValueOfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/ZbiorTestowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mta/ZbiorTestowyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/Operacje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/Watek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty12/zad10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/Euklides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/FunkcjaLiniowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/NWD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/NaszeOkienka.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/NaszeOkienka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty13/TestWartosci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty19/data_structures/SimpleArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty19/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Programisci/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Programisci/JezykProgramowania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Programisci/TestProgramisci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Przegladarka/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Przegladarka/TestStrona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Przegladarka/WebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Sklep/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Sklep/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Sklep/TestSklep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/Student/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/TableToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty26/UniqueFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Kino/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Kino/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Kino/TestFilmyKopie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/ListaShallowDeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Pracownik/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Pracownik/MainE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Student/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Student/ShallowCopyInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sty27/Student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDAcademy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDAcademy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Dom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Drzwi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Elektryka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/GuessNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Jakis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Metody/Kalk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Metody/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Metody/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Metody/Prostokat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Metody/Prostokat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Metody/VarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Metody/VarArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/MyChecked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/NaszaKlasa$FirstLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/NaszaKlasa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Okna.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Dzielenie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Dzielenie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Mainek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Mnożenie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Mnożenie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Modulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Modulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Odejmowanie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Operacje/Odejmowanie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Pokoj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Poli/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Poli/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Poli/Portal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Poli/Portal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Poli/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/Poli/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Poli/iSex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Samochod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Samochodzik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/Silnik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/TypDanych.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/dniTyg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/du_łajl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/dzien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/enhLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/forek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/gru01/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/ify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/inty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/kalk_switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/kalkulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/kolkoIkrzyzyk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/BatMobil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/Cabrio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/Ciezarowy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/Samochod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/Sportowy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/Terenowy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/TestDzien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/cwik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/dzienTyg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/rek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/switchTyg$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/switchTyg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/testAuta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list17/testDni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Dodawanie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Dzielenie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Karoseria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/KlasaA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/KlasaB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/KlasaC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/KlasaD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Mnozenie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Odejmowanie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Operacja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Podwozie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Samochod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Sandbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/Silnia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/WarsztatA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/WarsztatB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/testOperacje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/testWarsztaty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list18/textUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/Chmura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/DataManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/DataManagerComposer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/Dysk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/Repo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/htxdrgbtrntnrcd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list24/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/Eksperyment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/Eksperyment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/Errorek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/TrajKecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/TrajKecz2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/Wat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/Wat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/Zadanie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/ZadanieNaPliku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/joiny.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/testRownosci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/watek$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/watek$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/watek$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/watek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/watki$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/watki.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/wyjatek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/list25/zapisDoPliku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/modulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/mta/Cat6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/mta/Cats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SDAcademy/mta/Cats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/noweInty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/parzNie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/plik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/pro_while.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/procent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/tabInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/tabString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/tablica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/tabliczka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/wiek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/wyjatek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/wyjatek2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Firma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Firma203.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Liczba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Pracownik$Plec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Pracownik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Pracownik203.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/Punkt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/PunktTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad204.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad204Metody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad205.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad301.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad302.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad303.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad304.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad305.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad306.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad308.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad309.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad313.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad401.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad402.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad403.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad404.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad405.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad406.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad407.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/zadanka/zad408.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDAcademy/łajl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elektryka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/GuessNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Metody/Kalk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/KalkArg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Metody/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metody/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Metody/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metody/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Metody/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metody/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NaszaKlasa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacje/Dodawanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/Dodawanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacje/Dzielenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/Dzielenie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacje/Mainek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/TestOperacje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacje/Mnożenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/Mnożenie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacje/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacje/Odejmowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacje/Odejmowanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pokoj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis10/Pokoj/Pokoj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poli/AnotherInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poli/AnotherInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poli/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poli/Portal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poli/Portal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poli/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poli/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poli/iSex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poli/eSex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samochod/Samochod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samochod/Samochodzik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samochod/Silnik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypDanych.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis10/Pokoj/TestPokoj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dniTyg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/DniTygScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/du_łajl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/SkładanyProcent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dzien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/DzienTyg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enhLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/enhLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gru01/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/PrzedzialWiekowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/Inty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kalk_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/KalkulatorSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/KalkulatorScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kolkoIkrzyzyk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list10/Dom/Dom/Dom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list10/Dom/Dom/Drzwi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list10/Dom/Dom/Okna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list10/Dom/Dom/TestDom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/BatMobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/BatMobil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/Cabrio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/Cabrio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/Cabriolecik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/Cabriolecik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/Ciezarowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/Ciezarowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/Samochod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/Samochod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/Sportowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/Sportowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/Terenowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/Terenowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/TestDzien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/TestDzien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/cwik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/dzienTyg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/dzienTyg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/rek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Rekurencja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/switchTyg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/testAuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis17/Auta/testAuta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list17/testDni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Dodawanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Operacja/Dodawanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Dzielenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Operacja/Dzielenie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Karoseria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/KlasaA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Dziedziczenie/KlasaA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/KlasaB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Dziedziczenie/KlasaB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/KlasaC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Dziedziczenie/KlasaC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/KlasaD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Dziedziczenie/KlasaD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Mnozenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Operacja/Mnozenie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Odejmowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Operacja/Odejmowanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Operacja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Podwozie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Samochod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Sandbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/Silnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Operacja/Silnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/WarsztatA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/WarsztatB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/testUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/testOperacje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Operacja/TestOperacje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/testWarsztaty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/Warsztaty/TestWarsztaty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list18/textUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis18/textUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Instancje/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Instancje/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/Chmura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Repozytorium/Chmura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/DataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Repozytorium/DataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/DataManagerComposer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Repozytorium/DataManagerComposer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/Dysk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Repozytorium/Dysk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Instancje/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/Repo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Repozytorium/Repo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/htxdrgbtrntnrcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Repozytorium/htxdrgbtrntnrcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list24/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/Eksperyment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/Errorek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/Errorek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/TrajKecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/TrajKecz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/TrajKecz2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/Wat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/Wat1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/Wat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/Wat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/Zadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/Zadanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/ZadanieNaPliku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/ZadanieNaPliku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis24/Daty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/joiny.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/JoinsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/testRownosci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/testRownosci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/watek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/TestZadania.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/watki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/wyjatek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/Wyjatek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list25/zapisDoPliku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis25/zapisDoPliku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/Cat6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/Cats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/Cats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/noweInty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/KwadratyLiczb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parzNie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plik" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pro_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/ZyskProcent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/procent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/ProcentZysku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/SumaZTabeli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis10/TabelaAdres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tablica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabliczka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lis10/TabliceOdTylu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/TestRoznychTypowPrym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wiek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/Wiek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wyjatek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wyjatek2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gru09/Wyjatek2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Day.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Day.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Firma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Firma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Firma203.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Firma203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Firmav2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Firmav2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Liczba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Liczba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Pracownik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Pracownik203.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Pracownik203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/Punkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/Punkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/PunktTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/PunktTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad201.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad201.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad204.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad204Metody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad204Metody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad301.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad301.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad302.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad302.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad305.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad306.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad306.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad308.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad308.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad309.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad309.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad310.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad313.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad313.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad401.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad401.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad402.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad402.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad403.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad405.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad405.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad406.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad407.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad407.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanka/zad408.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZadDom/zad408.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/łajl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paz27/IleMiesiecyDoZysku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,118 +490,23 @@
     </option>
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/SDAcademy$test.ic" NAME="test Coverage Results" MODIFIED="1540627912024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SDAcademy$test.ic" NAME="test Coverage Results" MODIFIED="1543746483833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gru01.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/SDAcademy$inty.ic" NAME="inty Coverage Results" MODIFIED="1540641212083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SDAcademy$forek.ic" NAME="forek Coverage Results" MODIFIED="1540725056607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="209" />
+    <option name="myElementSize" value="215" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad401.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad402.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad403.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad404.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="13" column="45" selection-start-line="12" selection-start-column="12" selection-end-line="13" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad405.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="31" column="51" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad406.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" column="13" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad407.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadanka/zad408.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gru01/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -151,6 +517,13 @@
       <find>gett</find>
       <find>format</find>
       <find>runna</find>
+      <find>perso</find>
+      <find>ser</find>
+      <find>secr</find>
+      <find>name</find>
+      <find>hash</find>
+      <find>indexo</find>
+      <find>top</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -159,57 +532,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/list24/B.java" />
-        <option value="$PROJECT_DIR$/src/list24/Repo.java" />
-        <option value="$PROJECT_DIR$/src/list24/Chmura.java" />
-        <option value="$PROJECT_DIR$/src/list24/Dysk.java" />
-        <option value="$PROJECT_DIR$/src/list24/htxdrgbtrntnrcd.java" />
-        <option value="$PROJECT_DIR$/src/list24/DataManagerComposer.java" />
-        <option value="$PROJECT_DIR$/src/list24/Dysk3232.java" />
-        <option value="$PROJECT_DIR$/src/Poli/Auth.java" />
-        <option value="$PROJECT_DIR$/src/Poli/Sex.java" />
-        <option value="$PROJECT_DIR$/src/Poli/PrivateData.java" />
-        <option value="$PROJECT_DIR$/src/Poli/PaymentHistory.java" />
-        <option value="$PROJECT_DIR$/src/Poli/iSex.java" />
-        <option value="$PROJECT_DIR$/src/Poli/AnotherInterface.java" />
-        <option value="$PROJECT_DIR$/src/Poli/Main.java" />
-        <option value="$PROJECT_DIR$/src/Poli/User.java" />
-        <option value="$PROJECT_DIR$/src/Poli/Portal.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad301.java" />
-        <option value="$PROJECT_DIR$/src/plik" />
-        <option value="$PROJECT_DIR$/src/list25/zapisDoPliku.java" />
-        <option value="$PROJECT_DIR$/plik" />
-        <option value="$PROJECT_DIR$/plik.txt" />
-        <option value="$PROJECT_DIR$/src/list25/Zadanie.java" />
-        <option value="$PROJECT_DIR$/src/list25/ZadanieNaPliku.java" />
-        <option value="$PROJECT_DIR$/src/list25/Wat1.java" />
-        <option value="$PROJECT_DIR$/src/list25/watek.java" />
-        <option value="$PROJECT_DIR$/src/list25/TrajKecz.java" />
-        <option value="$PROJECT_DIR$/src/list25/TrajKecz2.java" />
-        <option value="$PROJECT_DIR$/src/list25/Wat2.java" />
-        <option value="$PROJECT_DIR$/src/list25/watki.java" />
-        <option value="$PROJECT_DIR$/src/list25/Errorek.java" />
-        <option value="$PROJECT_DIR$/src/list25/wyjatek.java" />
-        <option value="$PROJECT_DIR$/src/list24/Main.java" />
-        <option value="$PROJECT_DIR$/src/list24/test.java" />
-        <option value="$PROJECT_DIR$/src/list24/DataManager.java" />
-        <option value="$PROJECT_DIR$/src/list25/joiny.java" />
-        <option value="$PROJECT_DIR$/src/list25/test.java" />
-        <option value="$PROJECT_DIR$/src/list25/testRownosci.java" />
-        <option value="$PROJECT_DIR$/src/list25/Eksperyment.java" />
-        <option value="$PROJECT_DIR$/src/Drzwi.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/list25/data.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad401.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad402.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad403.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad404.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad405.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad406.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad407.java" />
-        <option value="$PROJECT_DIR$/src/zadanka/zad408.java" />
-        <option value="$PROJECT_DIR$/count.md" />
-        <option value="$PROJECT_DIR$/src/gru01/test.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/sty19/sorting/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/sty20/data_structures/DataStructuresDemo.java" />
+        <option value="$PROJECT_DIR$/src/sty20/data_structures/SimpleArrayList.java" />
+        <option value="$PROJECT_DIR$/src/sty20/data_structures/SimpleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/sty20/data_structures/SimpleQueue.java" />
+        <option value="$PROJECT_DIR$/src/sty20/data_structures/SimpleStack.java" />
+        <option value="$PROJECT_DIR$/src/sty20/recap/Talker.java" />
+        <option value="$PROJECT_DIR$/src/sty20/recap/Task1Demo.java" />
+        <option value="$PROJECT_DIR$/src/sty20/recap/Task2Demo.java" />
+        <option value="$PROJECT_DIR$/src/sty20/recap/Task5Demo.java" />
+        <option value="$PROJECT_DIR$/src/sty20/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/sty20/sorting/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/sty20/sorting/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/sty20/sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/sty20/sorting/SortingUtils.java" />
+        <option value="$PROJECT_DIR$/src/sty19/sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/sty19/sorting/SortingUtils.java" />
+        <option value="$PROJECT_DIR$/src/sty19/sorting/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/lut16/App.java" />
+        <option value="$PROJECT_DIR$/src/lut16/IAnimal.java" />
+        <option value="$PROJECT_DIR$/src/lut16/pl/sda/creational/builder/Customer.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleArrayList.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleQueue.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleQueuedemo.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleStack.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/sty19/data_structures/SimpleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/sty19/recap/Task1Demo.java" />
+        <option value="$PROJECT_DIR$/src/sty19/recap/Task2Demo.java" />
+        <option value="$PROJECT_DIR$/src/sty19/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Sklep/Client.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Sklep/Shop.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Sklep/TestSklep.java" />
+        <option value="$PROJECT_DIR$/src/sty26/UniqueFromList.java" />
+        <option value="$PROJECT_DIR$/src/sty26/TableToList.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Student/TestStudent.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Student/Student.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Przegladarka/Browser.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Programisci/JezykProgramowania.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Programisci/Developer.java" />
+        <option value="$PROJECT_DIR$/src/sty26/Programisci/TestProgramisci.java" />
+        <option value="$PROJECT_DIR$/src/sty27/Kino/TestFilmyKopie.java" />
+        <option value="$PROJECT_DIR$/src/sty27/Kino/Film.java" />
+        <option value="$PROJECT_DIR$/src/sty27/Student/ShallowCopyInJava.java" />
+        <option value="$PROJECT_DIR$/src/sty27/Student/Student.java" />
+        <option value="$PROJECT_DIR$/src/sty27/MainE.java" />
+        <option value="$PROJECT_DIR$/src/sty27/Pracownik/MainE.java" />
+        <option value="$PROJECT_DIR$/src/sty27/Pracownik/Employee.java" />
+        <option value="$PROJECT_DIR$/src/sty27/ListaShallowDeep.java" />
       </list>
     </option>
   </component>
@@ -220,10 +593,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="995" />
+    <option name="x" value="450" />
+    <option name="y" value="10" />
+    <option name="width" value="1100" />
+    <option name="height" value="1095" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -234,6 +607,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,40 +625,52 @@
               <item name="SDAcademy" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDAcademy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gru01" type="462c0819:PsiDirectoryNode" />
+              <item name="sty12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDAcademy" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDAcademy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="list25" type="462c0819:PsiDirectoryNode" />
+              <item name="sty13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDAcademy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDAcademy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanka" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="okna&#9;PSI&#9;JAVA://Dom#oknaDachowe" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543665657285" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/kurs/src" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549649410081" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA&#10;EditorConfig" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lut10.test.java.pl.sda.advanced.introduction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ja\IdeaProjects\SDAcademy\src\paz27" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="list24" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ja\IdeaProjects\SDAcademy" />
+      <recent name="C:\Users\Ja\IdeaProjects\SDAcademy\src" />
+      <recent name="C:\Users\Ja\IdeaProjects\SDAcademy\src\list17\Auta" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -298,13 +685,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gru01.test" />
+  <component name="RunManager" selected="Application.ListaShallowDeep">
+    <configuration name="ListaShallowDeep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sty27.ListaShallowDeep" />
       <module name="SDAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gru01.*" />
+          <option name="PATTERN" value="sty27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +699,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanka.zad405" />
+    <configuration name="MainE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sty27.Pracownik.MainE" />
       <module name="SDAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadanka.*" />
+          <option name="PATTERN" value="sty27.Pracownik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,12 +712,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanka.zad406" />
+    <configuration name="ShallowCopyInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sty27.Student.ShallowCopyInJava" />
       <module name="SDAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadanka.*" />
+          <option name="PATTERN" value="sty27.Student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +725,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanka.zad407" />
+    <configuration name="TestFilmyKopie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sty27.Kino.TestFilmyKopie" />
       <module name="SDAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadanka.*" />
+          <option name="PATTERN" value="sty27.Kino.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,12 +738,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad408" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanka.zad408" />
+    <configuration name="TestProgramisci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sty26.Programisci.TestProgramisci" />
       <module name="SDAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadanka.*" />
+          <option name="PATTERN" value="sty26.Programisci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,19 +752,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.zad405" />
-      <item itemvalue="Application.zad406" />
-      <item itemvalue="Application.zad407" />
-      <item itemvalue="Application.zad408" />
-      <item itemvalue="Application.test" />
+      <item itemvalue="Application.ListaShallowDeep" />
+      <item itemvalue="Application.MainE" />
+      <item itemvalue="Application.ShallowCopyInJava" />
+      <item itemvalue="Application.TestFilmyKopie" />
+      <item itemvalue="Application.TestProgramisci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.zad408" />
-        <item itemvalue="Application.zad407" />
-        <item itemvalue="Application.zad406" />
-        <item itemvalue="Application.zad405" />
+        <item itemvalue="Application.ListaShallowDeep" />
+        <item itemvalue="Application.MainE" />
+        <item itemvalue="Application.ShallowCopyInJava" />
+        <item itemvalue="Application.TestFilmyKopie" />
+        <item itemvalue="Application.TestProgramisci" />
       </list>
     </recent_temporary>
   </component>
@@ -458,6 +845,17 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BankAccountTests - 2019.02.15 at 17h 47m 32s.xml">
+      <configuration name="BankAccountTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTests_(1) - 2019.02.15 at 18h 16m 26s.xml">
+      <configuration name="CalculatorTests (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GamepadControllerTest - 2019.02.15 at 18h 16m 40s.xml">
+      <configuration name="GamepadControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -470,7 +868,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.22751679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.15369128" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.22751679" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -479,16 +877,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.2980226" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49530202" weight="0.33050847" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50201344" side_tool="true" weight="0.6680791" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504698" side_tool="true" weight="0.33050847" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49798658" weight="0.6680791" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" weight="0.32909605" />
       <window_info anchor="bottom" id="Analyze Dataflow to" order="11" sideWeight="0.49932885" weight="0.32956153" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" show_stripe_button="false" weight="0.32909605" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" weight="0.32909605" />
+      <window_info anchor="bottom" id="SonarLint" order="14" weight="0.32909605" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -498,8 +899,42 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
-      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.3295302" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.22080536" />
+      <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.22751679" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49530202" weight="0.33050847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983051" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504698" side_tool="true" weight="0.33050847" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49798658" weight="0.6680791" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" weight="0.32909605" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="11" sideWeight="0.49932885" weight="0.32956153" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" show_stripe_button="false" weight="0.32909605" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" weight="0.32909605" />
+      <window_info anchor="bottom" id="SonarLint" order="14" weight="0.32909605" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.3295302" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -526,6 +961,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sda" />
@@ -535,382 +984,372 @@
     <MESSAGE value="sda&#10;2 plik" />
     <option name="LAST_COMMIT_MESSAGE" value="sda&#10;2 plik" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sty13/NWD.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/plik">
+    <entry file="file://$PROJECT_DIR$/src/sty20/data_structures/SimpleQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="-598">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plik" />
-    <entry file="file://$PROJECT_DIR$/test2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+        <state relative-caret-position="285">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleArrayListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="228" column="15" lean-forward="true" selection-start-line="228" selection-start-column="15" selection-end-line="228" selection-end-column="15" />
+        <state relative-caret-position="360">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plik.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/zapisDoPliku.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="1376">
+          <caret line="67" column="80" selection-start-line="67" selection-start-column="80" selection-end-line="67" selection-end-column="80" />
+          <folding>
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#1915#1916#0" expanded="true" />
+            <element signature="e#1957#1958#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/Zadanie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/TrajKecz2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/watki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/TrajKecz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/Wat1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/Wat2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/ZadanieNaPliku.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleQueuedemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="21" column="90" selection-start-line="21" selection-start-column="90" selection-end-line="21" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/watek.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleStackDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="400">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/Errorek.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="292">
+          <caret line="61" column="95" selection-start-line="61" selection-start-column="95" selection-end-line="61" selection-end-column="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/A.java">
+    <entry file="file://$PROJECT_DIR$/src/sty20/data_structures/SimpleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1175">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/B.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2367">
+          <caret line="110" column="9" lean-forward="true" selection-start-line="107" selection-start-column="10" selection-end-line="110" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/data_structures/SimpleLinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="176">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/htxdrgbtrntnrcd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/Repo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/Dysk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/Chmura.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/recap/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/DataManagerComposer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty19/recap/Task5Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/sty19/recap/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list24/DataManager.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/recap/Notifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-25">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/wyjatek.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/sorting/SortingUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="150">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/testRownosci.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="142">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/Eksperyment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/joiny.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Drzwi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inty.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/a1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad401.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad402.java">
+    <entry file="file://$PROJECT_DIR$/src/sty20/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad403.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty20/sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty20/recap/Task5Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty20/sda/recap/Task1Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/sty20/recap/Talker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty20/recap/Task2Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty20/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty20/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Sklep/TestSklep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Sklep/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1049">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Sklep/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/UniqueFromList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty19/recap/Task1Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/GregorianCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="755" column="16" selection-start-line="755" selection-start-column="16" selection-end-line="755" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad404.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="13" column="45" selection-start-line="12" selection-start-column="12" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="1779" column="16" selection-start-line="1779" selection-start-column="16" selection-end-line="1779" selection-end-column="16" />
-          <folding>
-            <element signature="e#111238#111239#0" expanded="true" />
-            <element signature="e#111300#111301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad405.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="2065" column="18" selection-start-line="2065" selection-start-column="18" selection-end-line="2065" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list25/data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="22" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad406.java">
+    <entry file="file://$PROJECT_DIR$/src/sty19/recap/Task2Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="17" column="13" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="13" />
+          <caret line="19" column="73" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad407.java">
+    <entry file="file://$PROJECT_DIR$/src/sty26/TableToList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="710">
+          <caret line="48" column="15" lean-forward="true" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Character.java">
+    <entry file="file://$PROJECT_DIR$/src/sty26/Student/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+        <state relative-caret-position="76">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadanka/zad408.java">
+    <entry file="file://$PROJECT_DIR$/src/sty26/Student/TestStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="212">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/count.md">
+    <entry file="file://$PROJECT_DIR$/src/sty26/Przegladarka/TestStrona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Przegladarka/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Przegladarka/WebSite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gru01/test.java">
+    <entry file="file://$PROJECT_DIR$/src/sty26/Programisci/TestProgramisci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Programisci/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty26/Programisci/JezykProgramowania.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Kino/TestFilmyKopie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Kino/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Kino/Film.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Student/ShallowCopyInJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Student/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Student/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Pracownik/MainE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/Pracownik/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sty27/ListaShallowDeep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -920,6 +1359,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>SDAcademy:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -971,7 +1411,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -979,6 +1418,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>org.mockito:mockito-core:2.23.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

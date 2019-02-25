@@ -6,13 +6,15 @@ public class Main {
 
         uzytkownik.getAllMethods();
         System.out.println("******");
+        uzytkownik.getUserName();
+        uzytkownik.getPassword();
+
+        System.out.println("******");
 
         Portal portalik =new Portal();
+
         portalik.login(uzytkownik);
         portalik.editProfile(uzytkownik);
         portalik.getPaymentHelp(uzytkownik);
-
-        uzytkownik.getUserName();
-        uzytkownik.getPassword();
     }
 }

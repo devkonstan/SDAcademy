@@ -3,6 +3,7 @@ package Metody;
 public class Main {
     public static void main(String[] args) {
     Prostokat rect=new Prostokat(14,34);
+
         System.out.println("srawdzam: "+rect.szerokosc+" "+rect.wysokosc);
 
         rect.wyswietlArg();
@@ -15,6 +16,7 @@ public class Main {
         rect.setSzerokosc(2); //dlaczego tutaj nie wyswietli mi 3 tak jak mam w getterze?
         rect.setWysokosc(10); //udalo sie dopiero po utworzeniu nowego obiektu
         //najpierw utworzyc settera dla rect z minusami a dopiero potem getterem sprawdzic
+
         System.out.println("wyswietlam szerokosc: "+rect.wyswietlSzer());
         System.out.println("wyswietlam wysokosc: "+rect.wyswietlWys());
 
@@ -23,11 +25,15 @@ public class Main {
 
         rect.zwrocPole();
 
-        VarArgs varek=new VarArgs(); //to jest tak jakby tablica
-        varek.wyswietlString("czesc, ", "jestem ", "Konrad");
+        System.out.println("*********");
 
-        VarArgs varek2 = new VarArgs();
-        varek2.wyswietlProstokat(new Prostokat(23,52), new Prostokat(54,12));
+        VarArgs argumenty=new VarArgs(); //to jest tak jakby paz27.TestTablicy
+        argumenty.wyswietlString("czesc, ", "jestem ", "Konrad");
+
+        System.out.println("********");
+
+        VarArgs varek = new VarArgs();
+        varek.wyswietlProstokat(new Prostokat(23,52), new Prostokat(54,12));
 
     }
 }

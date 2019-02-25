@@ -14,10 +14,11 @@ public class Prostokat {
     public void wyswietlArg() {
         System.out.println("wyswietlam: " + szerokosc + " " + wysokosc);
     }
+
     //getter 1
     public int wyswietlSzer() {
         if (szerokosc < 0) {
-            return szerokosc=3;
+            return szerokosc=3; //domyslna wartosc
         } else {
             return szerokosc;
         }
@@ -26,7 +27,7 @@ public class Prostokat {
     //getter 2
     public int wyswietlWys() {
         if (wysokosc < 0) {
-            return wysokosc = 3;
+            return wysokosc = 3; //domyslna wartosc
         } else {
             return wysokosc;
         }

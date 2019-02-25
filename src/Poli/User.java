@@ -2,7 +2,7 @@ package Poli;
 
 public class User implements Auth,PaymentHistory,AnotherInterface {
 
-    //uzyskane poprzez alt+enter -> add methods
+    //uzyskane poprzez Alt+Insert -> add methods
     @Override
     public void getUserName() {
         System.out.println("imię");
@@ -25,7 +25,7 @@ public class User implements Auth,PaymentHistory,AnotherInterface {
 
     @Override
     public void getSex() {
-        System.out.println(iSex.M);
+        System.out.println(eSex.M);
     }
 
     void getAllMethods() {
