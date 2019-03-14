@@ -1,4 +1,4 @@
-package lut09.main.java.pl.sda.entry;
+package lut09.entry;
 
 public class Calculator {
     public int add(int a, int b) {

@@ -1,4 +1,4 @@
-package lut10.main.java.pl.sda.advanced.sandbox;
+package lut10.sandbox;
 
 public class Mouse {
     public void click() {

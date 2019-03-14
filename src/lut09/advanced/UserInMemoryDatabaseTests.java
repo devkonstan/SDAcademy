@@ -1,8 +1,5 @@
-package lut09.advanced.users;
+package lut09.advanced;
 
-import lut10.main.java.pl.sda.advanced.users.Sex;
-import lut10.main.java.pl.sda.advanced.users.User;
-import lut10.main.java.pl.sda.advanced.users.UserInMemoryDatabase;
 import org.junit.Before;
 import org.junit.Test;
 import sun.plugin.dom.exception.InvalidStateException;

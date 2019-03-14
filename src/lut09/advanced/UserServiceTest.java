@@ -1,19 +1,12 @@
-package lut09.advanced.users;
+package lut09.advanced;
 
 
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
-import lut10.main.java.pl.sda.advanced.users.Sex;
-import lut10.main.java.pl.sda.advanced.users.User;
-import lut10.main.java.pl.sda.advanced.users.UserInMemoryDatabase;
-import lut10.main.java.pl.sda.advanced.users.UserService;
-import lut10.main.java.pl.sda.advanced.users.UserAlreadyExistsExc;
-
 
 import java.util.Optional;
 
@@ -51,7 +44,7 @@ public class UserServiceTest {
         verify(baza, times(1)).add(any());
     }
 
-    @Test(expected = UserAlreadyExistsExc.class)
+    @Test(expected = UserAlreadyExistsException.class)
     public void userEmailExist() {
         //given
         String email = "test2@email.pl";

@@ -1,14 +1,11 @@
-package lut10.main.java.pl.sda.advanced.introduction;
+package lut10.introduction;
 
-import lut10.main.java.pl.sda.advanced.introduction.GamepadController;
-import lut10.main.java.pl.sda.advanced.introduction.MobileRobot;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 
-import static org.mockito.ArgumentMatchers.anyDouble;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 

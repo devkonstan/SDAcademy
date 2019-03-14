@@ -1,8 +1,5 @@
-package lut10.main.java.pl.sda.advanced.sandbox;
+package lut10.sandbox;
 
-import lut10.main.java.pl.sda.advanced.sandbox.Computer;
-import lut10.main.java.pl.sda.advanced.sandbox.Keyboard;
-import lut10.main.java.pl.sda.advanced.sandbox.Mouse;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

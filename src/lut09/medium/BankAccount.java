@@ -1,4 +1,4 @@
-package lut09.main.java.pl.sda.medium;
+package lut09.medium;
 
 public class BankAccount {
     private double balance;

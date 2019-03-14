@@ -1,7 +1,5 @@
-package lut09.test.java.pl.sda.entry;
+package lut09.entry;
 
-import junitparams.Parameters;
-import lut09.main.java.pl.sda.entry.Calculator;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;

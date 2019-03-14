@@ -1,4 +1,4 @@
-package lut10.main.java.pl.sda.advanced.introduction;
+package lut10.introduction;
 
 public class GamepadController {
     // Poprawny sposob deklarowania stalej w jezyku Java

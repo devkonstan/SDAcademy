@@ -1,4 +1,4 @@
-package lut10.main.java.pl.sda;
+package lut10;
 
 public class FluentBuilder {
     private int a;

@@ -1,13 +1,10 @@
-package lut09.test.java.pl.sda.entry;
+package lut09.entry;
 
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
-import lut09.main.java.pl.sda.entry.Calculator;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
-import java.util.Arrays;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

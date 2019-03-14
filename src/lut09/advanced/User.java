@@ -1,4 +1,4 @@
-package lut09.advanced.users;
+package lut09.advanced;
 
 import java.util.UUID;
 

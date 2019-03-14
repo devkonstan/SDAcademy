@@ -1,4 +1,4 @@
-package lut09.advanced.users;
+package lut09.advanced;
 
 import org.junit.Before;
 import org.junit.Rule;

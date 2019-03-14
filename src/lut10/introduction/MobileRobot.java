@@ -1,4 +1,4 @@
-package lut10.main.java.pl.sda.advanced.introduction;
+package lut10.introduction;
 
 public class MobileRobot {
     public void move(double leftMotor, double rightMotor) {

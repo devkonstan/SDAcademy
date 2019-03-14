@@ -1,8 +1,6 @@
-package lut10.main.java.pl.sda.advanced.sandbox;
+package lut10.sandbox;
 
-import lut09.advanced.sandbox.Computer;
-import lut09.advanced.sandbox.Keyboard;
-import lut09.advanced.sandbox.Mouse;
+
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;
 import org.mockito.Mock;
@@ -16,8 +14,8 @@ import static org.mockito.Mockito.verify;
 
 @RunWith(MockitoJUnitRunner.class)
 public class ComputerTest {
-    private lut09.advanced.sandbox.Computer computer;
-    private lut09.advanced.sandbox.Keyboard keyboard;
+    private lut10.sandbox.Computer computer;
+    private lut10.sandbox.Keyboard keyboard;
 
     @Mock
     private Mouse mouse;
@@ -38,7 +36,7 @@ public class ComputerTest {
     @Test
     public void typingTest() {
         String text = "DupaDupa";
-        computer.type(text);
+        computer.typeText(text);
         verify(keyboard, times(text.length())).pressKey(anyChar());
 
 //        Computer komp=new Computer(mouse,new Keyboard());
