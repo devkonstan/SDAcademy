@@ -1,15 +1,15 @@
-package ZadDom;
+package zadanka;
 
 import java.util.Scanner;
 
 public class zad22 {
 
-    static int[] TablicaDzielnikow(int a) {         //funkcja zwraca tablice dzielników danej liczby
+    static int[] TablicaDzielnikow(int a) { //funkcja zwraca tablice dzielników danej liczby
 
         int dzielnik = 1;
         int licznikDzielnikow = 0;
 
-        while (dzielnik <= a) {             //liczymy ilość dzielników, żeby wiedzieć jaki ma być wymiar tablicy
+        while (dzielnik <= a) { //liczymy ilość dzielników, żeby wiedzieć, jaki ma być wymiar tablicy
             if (a % dzielnik == 0) {
                 licznikDzielnikow++;
             }
@@ -52,7 +52,7 @@ public class zad22 {
 
         System.out.println("Podaj wymiar tablicy: ");
         Scanner skan = new Scanner(System.in);
-        int n = skan.nextInt();                 //wczytujemy rozmiar tablicy
+        int n = skan.nextInt(); //wczytujemy rozmiar tablicy
 
         boolean[][] a = new boolean[n][n];
 

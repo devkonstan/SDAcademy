@@ -1,4 +1,4 @@
-package ZadDom;
+package zadanka;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -24,7 +24,7 @@ public class zad12 {
             }
             //brak warunku == skutkuje wyjsciem z petli
         } while (losowana < moja || losowana > moja);
-        System.out.println("Gratulacje! "+losowana+"="+moja);
+        System.out.println("Gratulacje! " + losowana + "=" + moja);
     }
 }
 

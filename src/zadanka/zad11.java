@@ -1,4 +1,4 @@
-package ZadDom;
+package zadanka;
 
 import java.util.Scanner;
 
@@ -15,11 +15,11 @@ public class zad11 {
         min = liczba;
         max = liczba;
 
-        while (liczba!=0) {
+        while (liczba != 0) {
             System.out.println("podaj liczbę: ");
             liczba = sc.nextInt();
 
-            if (liczba==0){
+            if (liczba == 0) {
                 break;
             }
 
@@ -28,7 +28,7 @@ public class zad11 {
             }
 
             if (liczba > max) {
-                max=liczba;
+                max = liczba;
             }
         }
 
@@ -37,9 +37,9 @@ public class zad11 {
         srednia = (double) (min + max) / 2;
 
         //wyswietla sume max i min
-        System.out.println("suma max i min to: "+sumaMaxMin);
+        System.out.println("suma max i min to: " + sumaMaxMin);
         //wyswietla sr arytmetyczna liczb
-        System.out.println("srednia tych liczb wynosi: "+srednia);
+        System.out.println("srednia tych liczb wynosi: " + srednia);
     }
 }
 

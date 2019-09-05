@@ -11,7 +11,7 @@ public class zad205 {
         double sumaPaliwo = 0;
         double sumaLosowaDolewka = 0;
         char odp;
-        Random randomek = new Random();
+        Random random = new Random();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("ile paliwa nalać?");
@@ -26,7 +26,7 @@ public class zad205 {
             paliwo = sc.nextDouble();
             sumaPaliwo = sumaPaliwo + paliwo;
 
-            losowaDolewka = Math.round(10 * (randomek.nextDouble()));
+            losowaDolewka = Math.round(10 * (random.nextDouble()));
             System.out.println("losowa dolewka: " + losowaDolewka);
             sumaLosowaDolewka = sumaLosowaDolewka + losowaDolewka;
         } while (odp == 't');

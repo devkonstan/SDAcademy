@@ -7,10 +7,10 @@ public class zad407 {
         Scanner sc = new Scanner(System.in);
         System.out.println("podaj jakis wyraz");
         String wyraz = sc.next();
-        char[] wyrazjakotablica = wyraz.toCharArray();
+        char[] tablicaZnakow = wyraz.toCharArray();
 
-        for (int i = 0; i < wyrazjakotablica.length; i++) {
-            System.out.print(wyrazjakotablica[wyrazjakotablica.length - 1 - i]);
+        for (int i = 0; i < tablicaZnakow.length; i++) {
+            System.out.print(tablicaZnakow[tablicaZnakow.length - 1 - i]);
         }
     }
 }

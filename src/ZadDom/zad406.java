@@ -17,6 +17,6 @@ public class zad406 {
                 count++;
             }
         }
-        System.out.println("ostatni znak ["+ostatni +"] wystapil: "+count+" razy");
+        System.out.println("ostatni znak [" + ostatni + "] wystapil: " + count + " razy");
     }
 }

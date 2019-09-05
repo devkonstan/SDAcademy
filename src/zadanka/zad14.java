@@ -1,4 +1,4 @@
-package ZadDom;
+package zadanka;
 
 import java.util.Scanner;
 
@@ -34,7 +34,7 @@ public class zad14 {
                 for (int j = 0; j <= i; j++) {
                     System.out.print(znak);
                     if (a == 0) {
-                        System.out.print("\n");
+                        System.out.println();
                         a++;
                     }
                 }
@@ -42,7 +42,7 @@ public class zad14 {
                     for (int k = 0; k < i; k++) {
                         System.out.print(znak);
                     }
-                    System.out.print("\n");
+                    System.out.println();
                 }
             }
         } else System.out.println("Wysokosc choinki musi byc wieksza od zera.");

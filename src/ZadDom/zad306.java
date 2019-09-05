@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class zad306 {
     public static void main(String[] args) {
 
-
         Scanner sc = new Scanner(System.in);
         System.out.println("podaj liczbę: ");
         int liczba = sc.nextInt();
@@ -19,8 +18,8 @@ public class zad306 {
             suma = suma + liczba;
             licznik++;
         }
-        srednia=suma/5;
-        System.out.println("suma wynosi: "+suma);
-        System.out.println("średnia wynosi: "+srednia);
+        srednia = suma / 5;
+        System.out.println("suma wynosi: " + suma);
+        System.out.println("średnia wynosi: " + srednia);
     }
 }
